@@ -14,6 +14,7 @@
 		5ED9F8C61A76FCB600FBD8ED /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED9F8C51A76FCB600FBD8ED /* Images.xcassets */; };
 		5ED9F8C91A76FCB600FBD8ED /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5ED9F8C71A76FCB600FBD8ED /* LaunchScreen.xib */; };
 		5ED9F8D51A76FCB600FBD8ED /* SwiftStudyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9F8D41A76FCB600FBD8ED /* SwiftStudyTests.swift */; };
+		5ED9F8DF1A771DD600FBD8ED /* TipCalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED9F8DE1A771DD600FBD8ED /* TipCalculatorModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		5ED9F8CE1A76FCB600FBD8ED /* SwiftStudyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftStudyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED9F8D31A76FCB600FBD8ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5ED9F8D41A76FCB600FBD8ED /* SwiftStudyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftStudyTests.swift; sourceTree = "<group>"; };
+		5ED9F8DE1A771DD600FBD8ED /* TipCalculatorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipCalculatorModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				5ED9F8C71A76FCB600FBD8ED /* LaunchScreen.xib */,
 				5ED9F8BD1A76FCB600FBD8ED /* SwiftStudy.xcdatamodeld */,
 				5ED9F8B91A76FCB600FBD8ED /* Supporting Files */,
+				5ED9F8DE1A771DD600FBD8ED /* TipCalculatorModel.swift */,
 			);
 			path = SwiftStudy;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				5ED9F8C11A76FCB600FBD8ED /* ViewController.swift in Sources */,
 				5ED9F8BC1A76FCB600FBD8ED /* AppDelegate.swift in Sources */,
 				5ED9F8BF1A76FCB600FBD8ED /* SwiftStudy.xcdatamodeld in Sources */,
+				5ED9F8DF1A771DD600FBD8ED /* TipCalculatorModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
